@@ -129,7 +129,7 @@ For **dark mode** support on github, use this [special syntax](https://docs.gith
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 ```
-
+<!-- 
 **interactive demo**
 
 <a href="https://platane.github.io/snk">
@@ -148,4 +148,4 @@ npm run dev:demo
 
 ## Implementation
 
-[solver algorithm](./packages/solver/README.md)
+[solver algorithm](./packages/solver/README.md) -->
