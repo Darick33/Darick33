@@ -1,5 +1,5 @@
 
-<h2 align="left">Hola 👋! Mi nombre es Sebastian soy parte de ByteBurst y soy desarrollador frontEnd</h2>
+<h2 align="left">Hola 👋! Mi nombre es Sebastian y soy desarrollador FrontEnd</h2>
 
 ###
 
